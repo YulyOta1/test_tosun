@@ -23,13 +23,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\lib\TSMaster.h">
-      <Filter>lib</Filter>
-    </ClInclude>
     <ClInclude Include="seedNKeyDiag.h">
       <Filter>lib</Filter>
     </ClInclude>
     <ClInclude Include="CGW_cfg.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="TSMaster.h">
       <Filter>lib</Filter>
     </ClInclude>
   </ItemGroup>
