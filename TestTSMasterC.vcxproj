@@ -175,9 +175,9 @@
     <ClCompile Include="CGW_Load_routine_table.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\lib\TSMaster.h" />
     <ClInclude Include="CGW_cfg.h" />
     <ClInclude Include="seedNKeyDiag.h" />
+    <ClInclude Include="TSMaster.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
